@@ -1,7 +1,7 @@
 # Company Project
 An example Java project to model a company
 
-##Environment dependencies
+## Environment dependencies
 - JDK8 (language level is java7 JDK/ should be also fine)
 - Tomcat 8 (tested with Tomcat 8.5.56)
 
