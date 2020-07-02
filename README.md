@@ -6,7 +6,7 @@ An example Java project to model a company
 - Tomcat 8 (tested with Tomcat 8.5.56)
 - Maven
 
-### Installing
+## Installing
 from project root run:
 ```
 mvn clean install
